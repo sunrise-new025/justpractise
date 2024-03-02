@@ -1,1 +1,1 @@
-print("Thos is another commit")
+print("This is another commit")
